@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How a Coder Asks for a Date</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+    <meta name="description" content="A fun and interactive way for coders to ask someone out on a date using HTML, CSS, and JavaScript.">
+</head>
+
+<body>
+
+    <div id="wrapper">
+        <h2 id="question">Do you want to go on a date?</h2>
+        <img id="gif" alt="A cute animated gif" src="https://i.pinimg.com/originals/ea/2d/e8/ea2de8f83e89f316c0a5169d09a0b536.gif" />
+        <div id="btn-group">
+            <button id="yes-btn">Yes</button>
+            <button id="no-btn">No</button>
+        </div>
+    </div>
+
+</body>
+</html>
